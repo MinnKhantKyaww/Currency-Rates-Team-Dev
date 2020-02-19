@@ -5,19 +5,9 @@
     <item>
         <shape>
             <padding
-                android:top="2dp" />
+                android:top="4dp" />
 
-            <solid android:color="#00C9C8C8" />
-
-            <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
-        </shape>
-    </item>
-    <item>
-        <shape>
-            <padding
-                android:top="2dp" />
-
-            <solid android:color="#10979797" />
+            <solid android:color="#00268FDD" />
 
             <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
         </shape>
@@ -25,19 +15,9 @@
     <item>
         <shape>
             <padding
-                android:top="2dp" />
+                android:top="4dp" />
 
-            <solid android:color="#20979797" />
-
-            <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
-        </shape>
-    </item>
-    <item>
-        <shape>
-            <padding
-                android:top="2dp" />
-
-            <solid android:color="#30979797" />
+            <solid android:color="#10268FDD" />
 
             <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
         </shape>
@@ -45,9 +25,29 @@
     <item>
         <shape>
             <padding
-                android:top="2dp"/>
+                android:top="4dp" />
 
-            <solid android:color="#50353535" />
+            <solid android:color="#20268FDD" />
+
+            <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding
+                android:top="4dp" />
+
+            <solid android:color="#30268FDD" />
+
+            <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding
+                android:top="4dp"/>
+
+            <solid android:color="#50268FDD" />
 
             <corners android:topLeftRadius="20dp" android:topRightRadius="20dp" />
         </shape>

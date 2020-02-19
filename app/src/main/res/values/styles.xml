@@ -1,12 +1,13 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar" xmlns:tools="http://schemas.android.com/tools">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorPrimary</item>
         <item name="searchViewStyle">@style/SearchViewStyle</item>
+        <item name="android:navigationBarColor" tools:targetApi="21">#034B72</item>
     </style>
 
     <style name="AppTheme.NoActionBar">

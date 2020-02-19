@@ -1,5 +1,6 @@
 package com.spicysoft.currencyexchange
 
+import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -13,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         setSupportActionBar(toolbar)
+        window.statusBarColor = Color.parseColor("#034B72")
     }
 
 }
