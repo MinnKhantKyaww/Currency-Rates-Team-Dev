@@ -7,7 +7,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorPrimary</item>
         <item name="searchViewStyle">@style/SearchViewStyle</item>
-        <item name="android:navigationBarColor" tools:targetApi="21">#034B72</item>
+        <item name="android:navigationBarColor" tools:targetApi="21">#9A034B72</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
